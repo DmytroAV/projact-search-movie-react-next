@@ -2,19 +2,10 @@ html,
 body {
 	margin: 0;
 	padding: 0;
+	color: var(--black);
+	background: #f5f6f8;
 
-	font-family:
-		-apple-system,
-		BlinkMacSystemFont,
-		"Segoe UI",
-		Roboto,
-		Oxygen,
-		Ubuntu,
-		Cantarell,
-		"Fira Sans",
-		"Droid Sans",
-		"Helvetica Neue",
-		sans-serif;
+	font-family: Roboto, sans-serif;
 }
 
 a {
@@ -25,4 +16,10 @@ a {
 
 * {
 	box-sizing: border-box;
+}
+
+:root {
+	--black: #101113;
+	--white: white;
+	--font-family: "Roboto", sans-serif;
 }
