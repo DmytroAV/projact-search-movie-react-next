@@ -1,1 +1,1 @@
-# projact-search-movie-react-next-ts
+# project-search-movie-react-next-ts
